@@ -134,12 +134,13 @@ img {
   display: flex;
   justify-content:space-between ;
   align-items: center ;
+  padding: 3.2rem;
 }
   
 .nav__logo{
       display: flex;
       align-items: center;
-      column-gap: .5rem;
+      column-gap: .7rem;
       font-family: var(--second-font);
       color: var(--title-color);
 }
