@@ -3,7 +3,7 @@
    <div class="flex">
 
       <img src="assets/img/logo-burger.svg" alt="image">
-      <a href="#" class="logo">
+      <a href="index.php" class="logo">
          Burger
       </a>
 
